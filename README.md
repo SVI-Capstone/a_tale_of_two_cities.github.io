@@ -1,4 +1,4 @@
-![](https://github.com/SVI-Capstone/a_tale_of_two_cities.github.io/blob/main/Corey's%20Slides.png)
+![](https://github.com/SVI-Capstone/a_tale_of_two_cities.github.io/blob/main/Corey's%20Slides.jpg)
 ### Explore Content
 [Tableau Dashboard]()   |   [Vrtural Presentation]()
 ### Who We Are
